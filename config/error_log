@@ -1,0 +1,4 @@
+[25-Jul-2020 19:33:27 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home2/plusscf3/public_html/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/plusscf3/public_html/config/view.php on line 17
